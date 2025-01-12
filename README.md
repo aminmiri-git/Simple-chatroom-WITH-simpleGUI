@@ -9,7 +9,6 @@ This project is a server-client application for LAN/WiFi communication, supporti
 Message Broadcasting: Clients can send and receive messages in real-time.
 File Sharing: Clients can share files with others in the network.
 Server Discovery: Clients automatically locate the server within the local network.
-Cross-Platform: Works on Windows and Android devices.
 
 # How to Run
 
