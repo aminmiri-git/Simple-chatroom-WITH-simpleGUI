@@ -1,0 +1,24 @@
+***Requirements***
+Python 3.8+
+Install Python from python.org.
+
+
+
+
+...Check if Tkinter is Pre-installed
+Tkinter comes pre-installed with most Python distributions. To check, open a Python shell and run:
+
+           import tkinter
+           print(tkinter.TkVersion)
+
+If no error occurs and a version number is displayed, Tkinter is already installed.
+
+
+
+
+
+Another way to verify if Tkinter is installed is to run this code in Command Prompt 
+
+          python -m tkinter
+
+if a Tkinter wondow is opened then it is installed.
